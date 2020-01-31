@@ -1,5 +1,5 @@
 {
-    "name": "drewjbartlett/wordpress-eloquent",
+    "name": "wp-kit/wordpress-eloquent",
     "description": "A Laravel wrapper for wordpress which turns all Wordpress models into Laravel Eloquent Models.",
     "keywords": ["wordpress", "eloquent", "laravel"],
     "homepage": "https://github.com/drewjbartlett/wordpress-eloquent",
@@ -15,8 +15,8 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "php": ">=5.6.4",
-        "illuminate/database": "^5.4"
+        "php": ">=7.2",
+        "illuminate/database": "^6.0"
     },
     "autoload": {
         "psr-4": {
